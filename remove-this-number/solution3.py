@@ -24,7 +24,7 @@ def get_sum(nums):
 
 if __name__ == '__main__':
 
-    from challenge import find_sum
+    from solution2 import find_sum
 
     maximum = 666
     flag = find_sum(maximum)

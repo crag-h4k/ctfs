@@ -9,3 +9,4 @@ def find_sum(maximum):
 if __name__ == '__main__':
     maximum = 666
     flag = find_sum(maximum)
+    print(flag)
